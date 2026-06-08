@@ -5,7 +5,6 @@ import seaborn as sns
 import plotly.express as px
 import matplotlib.pyplot as plt
 
-
 import sklearn
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
